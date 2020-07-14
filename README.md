@@ -1,10 +1,10 @@
 # ML-Capstone-Project
 
-Capstone project was completed over 3 weeks and based on data provided for ML – 2016 ML competition. Please see link https://github.com/mycarta/2016-ml-contest
+Capstone project was completed over 3 weeks and based on data provided for ML – 2016 ML competition. Please see link https://github.com/2016-ml-contest
 
 The purpose of the project was to take data for which I am a SME as I worked as a geophysicist for over 9 years, and apply knowledge I gained in this course.
 
-This project's goal was not to find the best solution but rather show to the course evaluator that:
+This project's goal was not to find the best solution but rather show to the course evaluators that:
 
 • I know how to read, clean and analyse row data
 
